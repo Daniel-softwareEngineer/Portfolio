@@ -533,3 +533,13 @@ footer p {
 .certification-info a:hover {
     text-decoration: underline;
 }
+
+.email {
+    font-weight: bold; /* Makes the text bold */
+    color: #007bff; /* Changes the text color to a bright blue */
+    background-color: #f0f8ff; /* Adds a light background color */
+    padding: 2px 4px; /* Adds some padding around the text */
+    border-radius: 4px; /* Rounds the corners of the background */
+    text-decoration: underline; /* Underlines the text */
+    font-size: 1.1em; /* Slightly increases the font size */
+}
